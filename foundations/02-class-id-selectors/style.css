@@ -1,0 +1,22 @@
+.redReg {
+    background-color: lightcoral;
+    color: black;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.redRegCool {
+    font-size: 24px;
+}
+
+#NumTwo {
+    color: blue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 36px;
+}
+
+#NumFour {
+    background-color: lightgreen;
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+}
